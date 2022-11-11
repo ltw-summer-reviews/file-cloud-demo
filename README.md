@@ -1,8 +1,8 @@
 # File Cloud demo
 
-A summer review project to practice Javascript and effects. 
+A summer review project to practice Javascript and effects.
 
-#### [⬇ Download the assets](https://github.com/acgd-summer-reviews/file-cloud-demo/archive/master.zip)
+#### [⬇ Download the assets](https://github.com/ltw-summer-reviews/file-cloud-demo/archive/master.zip)
 
 
 ---
@@ -66,17 +66,17 @@ For an extra challenge make the website better for all users:
 
 ## Relevant tutorials & tools
 
-- [Javascript effects](http://learn-the-web.algonquindesign.ca/topics/javascript-effects/)
-- **[Responsive animated dashboard](http://learn-the-web.algonquindesign.ca/topics/responsive-animated-dashboard/)**
-- [Validators](http://learn-the-web.algonquindesign.ca/topics/validators/)
-- [Browser testing](http://learn-the-web.algonquindesign.ca/topics/browser-testing/)
-- [Browser testing checklist](http://learn-the-web.algonquindesign.ca/topics/browser-testing-checklist/)
-- **[Launch checklist, Web Dev 3](http://learn-the-web.algonquindesign.ca/topics/launch-checklist-web-dev-3/)**
-- [Javascript accessibility](http://learn-the-web.algonquindesign.ca/topics/javascript-accessibility/)
-- [Accessibility](http://learn-the-web.algonquindesign.ca/topics/accessibility/)
-- **[Accessibility checklist](http://learn-the-web.algonquindesign.ca/topics/accessibility-checklist/)**
-- [Performance](http://learn-the-web.algonquindesign.ca/topics/performance/)
-- **[Performance checklist](http://learn-the-web.algonquindesign.ca/topics/performance-checklist/)**
+- [Javascript effects](https://learntheweb.coures/topics/javascript-effects/)
+- **[Responsive animated dashboard](https://learntheweb.coures/topics/responsive-animated-dashboard/)**
+- [Validators](https://learntheweb.coures/topics/validators/)
+- [Browser testing](https://learntheweb.coures/topics/browser-testing/)
+- [Browser testing checklist](https://learntheweb.coures/topics/browser-testing-checklist/)
+- **[Launch checklist, Web Dev 3](https://learntheweb.coures/topics/launch-checklist-web-dev-3/)**
+- [Javascript accessibility](https://learntheweb.coures/topics/javascript-accessibility/)
+- [Accessibility](https://learntheweb.coures/topics/accessibility/)
+- **[Accessibility checklist](https://learntheweb.coures/topics/accessibility-checklist/)**
+- [Performance](https://learntheweb.coures/topics/performance/)
+- **[Performance checklist](https://learntheweb.coures/topics/performance-checklist/)**
 
 ---
 
@@ -89,4 +89,4 @@ For an extra challenge make the website better for all users:
 
 ## Licenses & copyrights
 
-**[☛ Refer the the license & copyright statement](https://github.com/acgd-summer-reviews/meta#license--copyright-statement)**
+**[☛ Refer the the license & copyright statement](https://github.com/ltw-summer-reviews/meta#license--copyright-statement)**
